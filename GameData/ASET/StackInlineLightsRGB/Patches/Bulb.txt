@@ -1,0 +1,326 @@
+ @PART[dockBRIGHT]
+{
+    !MODULE[ModuleLight] {}
+    !MODULE[ModuleColoredLensLight] {}
+}
+@PART[dockBRIGHTjr]
+{
+    !MODULE[ModuleLight] {}
+    !MODULE[ModuleColoredLensLight] {}
+}
+@PART[dockBRIGHTsr]
+{
+    !MODULE[ModuleLight] {}
+    !MODULE[ModuleColoredLensLight] {}
+}
+@PART[SIL020625mRGB]
+{
+    !MODULE[ModuleLight] {}
+    !MODULE[ModuleColoredLensLight] {}
+}
+@PART[SIL02125mRGB]
+{
+    !MODULE[ModuleLight] {}
+    !MODULE[ModuleColoredLensLight] {}
+}
+@PART[SIL0225mRGB]
+{
+    !MODULE[ModuleLight] {}
+    !MODULE[ModuleColoredLensLight] {}
+}
+@PART[SIL0225mRGBbatt300]
+{
+    !MODULE[ModuleLight] {}
+    !MODULE[ModuleColoredLensLight] {}
+}
+@PART[SIL0225mRGBbatt3K]
+{
+    !MODULE[ModuleLight] {}
+    !MODULE[ModuleColoredLensLight] {}
+}
+@PART[SIL02375mRGB]
+{
+    !MODULE[ModuleLight] {}
+    !MODULE[ModuleColoredLensLight] {}
+}
+
+@PART[dockBRIGHT]:NEEDS[SurfaceLights]:FINAL
+{
+    MODULE
+    {
+          name = ModuleColoredLensLight
+          lightName = SIL0225DCLS
+          useAnimationDim = true
+          lightBrightenSpeed = 2.5
+          lightDimSpeed = 2.5
+          resourceAmount = 0.02
+          animationName = SIL0225turnON
+          useResources = true
+          lightR = 1.0
+          lightG = 0.9
+          lightB = 0.8
+    }
+}
+@PART[dockBRIGHTjr]:NEEDS[SurfaceLights]:FINAL
+{
+    MODULE
+    {
+          name = ModuleColoredLensLight
+          lightName = SIL0225DCLS
+          useAnimationDim = true
+          lightBrightenSpeed = 2.5
+          lightDimSpeed = 2.5
+          resourceAmount = 0.02
+          animationName = SIL0225turnON
+          useResources = true
+          lightR = 1.0
+          lightG = 0.9
+          lightB = 0.8
+    }
+}
+@PART[dockBRIGHTsr]:NEEDS[SurfaceLights]:FINAL
+{
+    MODULE
+    {
+          name = ModuleColoredLensLight
+          lightName = SIL0225DCLS
+          useAnimationDim = true
+          lightBrightenSpeed = 2.5
+          lightDimSpeed = 2.5
+          resourceAmount = 0.02
+          animationName = SIL0225turnON
+          useResources = true
+          lightR = 1.0
+          lightG = 0.9
+          lightB = 0.8
+    }
+}
+@PART[SIL020625mRGB]:NEEDS[SurfaceLights]:FINAL
+{
+    MODULE
+    {
+          name = ModuleColoredLensLight
+          lightName = SIL0225DCLS
+          useAnimationDim = true
+          lightBrightenSpeed = 2.5
+          lightDimSpeed = 2.5
+          resourceAmount = 0.02
+          animationName = SIL0225turnON
+          useResources = true
+          lightR = 1.0
+          lightG = 0.9
+          lightB = 0.8
+    }
+}
+@PART[SIL02125mRGB]:NEEDS[SurfaceLights]:FINAL
+{
+    MODULE
+    {
+          name = ModuleColoredLensLight
+          lightName = SIL0225DCLS
+          useAnimationDim = true
+          lightBrightenSpeed = 2.5
+          lightDimSpeed = 2.5
+          resourceAmount = 0.02
+          animationName = SIL0225turnON
+          useResources = true
+          lightR = 1.0
+          lightG = 0.9
+          lightB = 0.8
+    }
+}
+@PART[SIL0225mRGB]:NEEDS[SurfaceLights]:FINAL
+{
+    MODULE
+    {
+          name = ModuleColoredLensLight
+          lightName = SIL0225DCLS
+          useAnimationDim = true
+          lightBrightenSpeed = 2.5
+          lightDimSpeed = 2.5
+          resourceAmount = 0.02
+          animationName = SIL0225turnON
+          useResources = true
+          lightR = 1.0
+          lightG = 0.9
+          lightB = 0.8
+    }
+}
+@PART[SIL0225mRGBbatt300]:NEEDS[SurfaceLights]:FINAL
+{
+    MODULE
+    {
+          name = ModuleColoredLensLight
+          lightName = SIL0225DCLS
+          useAnimationDim = true
+          lightBrightenSpeed = 2.5
+          lightDimSpeed = 2.5
+          resourceAmount = 0.02
+          animationName = SIL0225turnON
+          useResources = true
+          lightR = 1.0
+          lightG = 0.9
+          lightB = 0.8
+    }
+}
+@PART[SIL0225mRGBbatt3K]:NEEDS[SurfaceLights]:FINAL
+{
+    MODULE
+    {
+          name = ModuleColoredLensLight
+          lightName = SIL0225DCLS
+          useAnimationDim = true
+          lightBrightenSpeed = 2.5
+          lightDimSpeed = 2.5
+          resourceAmount = 0.02
+          animationName = SIL0225turnON
+          useResources = true
+          lightR = 1.0
+          lightG = 0.9
+          lightB = 0.8
+    }
+}
+@PART[SIL02375mRGB]:NEEDS[SurfaceLights]:FINAL
+{
+    MODULE
+    {
+          name = ModuleColoredLensLight
+          lightName = SIL0225DCLS
+          useAnimationDim = true
+          lightBrightenSpeed = 2.5
+          lightDimSpeed = 2.5
+          resourceAmount = 0.02
+          animationName = SIL0225turnON
+          useResources = true
+          lightR = 1.0
+          lightG = 0.9
+          lightB = 0.8
+    }
+}
+
+@PART[dockBRIGHT]:NEEDS[BULB]:FINAL
+{
+    MODULE
+    {
+        name = ModuleLight
+        lightName = SIL0225DCLS
+        useAnimationDim = true
+        lightBrightenSpeed = 2.5
+        lightDimSpeed = 2.5
+        animationName = SIL0225turnON
+        resourceAmount = 0.0010
+        useResources = true
+    }
+}
+@PART[dockBRIGHTjr]:NEEDS[BULB]:FINAL
+{
+    MODULE
+    {
+        name = ModuleLight
+        lightName = SIL0225DCLS
+        useAnimationDim = true
+        lightBrightenSpeed = 2.5
+        lightDimSpeed = 2.5
+        animationName = SIL0225turnON
+        resourceAmount = 0.0010
+        useResources = true
+    }
+}
+@PART[dockBRIGHTsr]:NEEDS[BULB]:FINAL
+{
+    MODULE
+    {
+        name = ModuleLight
+        lightName = SIL0225DCLS
+        useAnimationDim = true
+        lightBrightenSpeed = 2.5
+        lightDimSpeed = 2.5
+        animationName = SIL0225turnON
+        resourceAmount = 0.0010
+        useResources = true
+    }
+}
+@PART[SIL020625mRGB]:NEEDS[BULB]:FINAL
+{
+    MODULE
+    {
+        name = ModuleLight
+        lightName = SIL0225DCLS
+        useAnimationDim = true
+        lightBrightenSpeed = 2.5
+        lightDimSpeed = 2.5
+        animationName = SIL0225turnON
+        resourceAmount = 0.0010
+        useResources = true
+    }
+}
+@PART[SIL02125mRGB]:NEEDS[BULB]:FINAL
+{
+    MODULE
+    {
+        name = ModuleLight
+        lightName = SIL0225DCLS
+        useAnimationDim = true
+        lightBrightenSpeed = 2.5
+        lightDimSpeed = 2.5
+        animationName = SIL0225turnON
+        resourceAmount = 0.0010
+        useResources = true
+    }
+}
+@PART[SIL0225mRGB]:NEEDS[BULB]:FINAL
+{
+    MODULE
+    {
+        name = ModuleLight
+        lightName = SIL0225DCLS
+        useAnimationDim = true
+        lightBrightenSpeed = 2.5
+        lightDimSpeed = 2.5
+        animationName = SIL0225turnON
+        resourceAmount = 0.0010
+        useResources = true
+    }
+}
+@PART[SIL0225mRGBbatt300]:NEEDS[BULB]:FINAL
+{
+    MODULE
+    {
+        name = ModuleLight
+        lightName = SIL0225DCLS
+        useAnimationDim = true
+        lightBrightenSpeed = 2.5
+        lightDimSpeed = 2.5
+        animationName = SIL0225turnON
+        resourceAmount = 0.0010
+        useResources = true
+    }
+}
+@PART[SIL0225mRGBbatt3K]:NEEDS[BULB]:FINAL
+{
+    MODULE
+    {
+        name = ModuleLight
+        lightName = SIL0225DCLS
+        useAnimationDim = true
+        lightBrightenSpeed = 2.5
+        lightDimSpeed = 2.5
+        animationName = SIL0225turnON
+        resourceAmount = 0.0010
+        useResources = true
+    }
+}
+@PART[SIL02375mRGB]:NEEDS[BULB]:FINAL
+{
+    MODULE
+    {
+        name = ModuleLight
+        lightName = SIL0225DCLS
+        useAnimationDim = true
+        lightBrightenSpeed = 2.5
+        lightDimSpeed = 2.5
+        animationName = SIL0225turnON
+        resourceAmount = 0.0010
+        useResources = true
+    }
+} 
