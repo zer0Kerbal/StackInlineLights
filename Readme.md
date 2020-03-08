@@ -1,12 +1,14 @@
 ​
+# Stack Inline Lights (SIL)
+## by A.S.E.T.
+![Stack Inline Lights](https://img.shields.io/github/v/release/zer0Kerbal/StackInlineLights?include_prereleases?style=plastic)
+![KSP version](https://img.shields.io/endpoint?url=https://github.com/zer0Kerbal/StackInlineLights/raw/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)
+![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) ![CKAN](https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic) ![Github](https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic) ![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)
 
- 
-
-A.S.E.T. is proud to present
 
 'Stack Inline Light' with full color and brightness setup and in any sizes!
 
-    [Javascript is disabled. View full album ](https://imgur.com/a/znbMm)
+    [View full album ](https://imgur.com/a/znbMm)
 
  [https://forum.kerbalspaceprogram.com/index.php?/topic/47765-090-stack-inline-lights-07-update-07042015/](https://forum.kerbalspaceprogram.com/index.php?/topic/47765-090-stack-inline-lights-07-update-07042015/)
 
@@ -51,7 +53,7 @@ Also,
 
 - Lights, welded with stock Docking Ports, by XanderTek
 
-    [Javascript is disabled. View full album](https://imgur.com/a/Qqaik) 
+    [View full album](https://imgur.com/a/Qqaik) 
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 

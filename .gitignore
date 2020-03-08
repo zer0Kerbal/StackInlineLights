@@ -68,3 +68,5 @@ obj/
 *.log
 TestResult.xml
 
+images.txt
+shields.md
