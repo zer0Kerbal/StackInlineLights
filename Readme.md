@@ -2,7 +2,8 @@
 # Stack Inline Lights (SIL)
 ## by A.S.E.T.
 ![Stack Inline Lights](https://img.shields.io/github/v/release/zer0Kerbal/StackInlineLights?include_prereleases?style=plastic)
-![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License CC BY-NC-SA 3.0 uported](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey?style=plastic)
+![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License CC BY-NC-SA 3.0 uported](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey?style=plastic)  
+
 ![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) ![CKAN](https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic) ![Github](https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic) ![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)
 
 
@@ -64,4 +65,5 @@ Also,
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 Please, leave your comments and suggestions. It is very important to me.
+![Validate AVC .version files](https://github.com/zer0Kerbal/StackInlineLights/workflows/Validate%20AVC%20.version%20files/badge.svg)
 ​
