@@ -65,5 +65,6 @@ Also,
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 Please, leave your comments and suggestions. It is very important to me.
+***
 ![Validate AVC .version files](https://github.com/zer0Kerbal/StackInlineLights/workflows/Validate%20AVC%20.version%20files/badge.svg)
 ​
