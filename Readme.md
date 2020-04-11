@@ -12,7 +12,7 @@ updated: 2020 03 16 -->
 ![Mod Version][shield:mod:latest] 
 ![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License MIT][shield:license] ![][LOGO:license]   
 ![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]  
-![Code][shield:code] ![Validate AVC .version files][shield:avcvalid]  
+![Validate AVC .version files][shield:avcvalid]  
 ***
 ![StackInlineLights][IMG:hero:0]
 #### Cabin notes by [@alexustas][LINK:alexustas]:  
@@ -86,7 +86,7 @@ Author: [@alexustas][LINK:alexustas]
 [Thread][MOD:original:thread]  
 [Download][MOD:original:download]  
 Source: [GitHub][MOD:original:source]  
-License: ![License CC BY-NC-SA 3.0][MOD:original:license:shield] ![][LOGO:license] 
+License: ![License CC BY-NC-SA 3.0][MOD:original:license:shield] ![][LOGO:original:license] 
 > "Stack Inline Light (2.5 m)", "Stack Inline Light_ lw (2.5 m)" & "Stack Inline Lights (RGB)" by Alexustas is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.](https://creativecommons.org/licenses/by-nc-sa/3.0/ "CC BY-NC-SA 3.0")  
 <!-- graphical links to downloads -->
 [![][image:rel-github]][MOD:rel-github] [![][image:rel-spacedock]][MOD:rel-spacedock] [![][image:rel-curseforge]][MOD:rel-curseforge]  
@@ -109,13 +109,12 @@ License: ![License CC BY-NC-SA 3.0][MOD:original:license:shield] ![][LOGO:licens
 [MOD:original:source]:     https://forum.kerbalspaceprogram.com/index.php?/topic/47765-*
 [MOD:original:thread]:     https://forum.kerbalspaceprogram.com/index.php?/topic/47765-*
 [MOD:original:download]:   https://www.dropbox.com/s/0o94tdgxj8g4g2d/StackInlineLightsRGB-v0.7%20%28regular%29.zip?dl=0
-[MOD:original:license:shield]:  https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 3.0"  
+[MOD:original:license:shield]:  https://img.shields.io/badge/license-CC--BY--SA%203.0-lightgrey&style=plastic "CC BY-NC-SA 3.0"  
+[LOGO:original:license]:  https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 3.0"  
 
 <!--- license logo urls -->
 [LINK:license]: https://creativecommons.org/licenses/by-nc-sa/3.0/ "CC BY-NC-SA 3.0"  
 [LOGO:license]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 3.0"  
-
-<!--- original mod stuff -->
 
 [MOD:rel-ckan]:      https://forum.kerbalspaceprogram.com/index.php?/topic/90246-* "CKAN"  
 [MOD:rel-github]:    https://github.com/zer0Kerbal/StackInlineLights/releases/latest "GitHub"  
@@ -127,13 +126,13 @@ License: ![License CC BY-NC-SA 3.0][MOD:original:license:shield] ![][LOGO:licens
 [image:rel-curseforge]: https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png
 [image:get-support]:    https://i.postimg.cc/vHP6zmrw/image.png
 
-[image:rel-ckan]:  https://i.postimg.cc/x8XSVg4R/sj507JC.p
+[image:rel-ckan]:  https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"  
 [image:changelog]: https://i.postimg.cc/qM9p4V0C/changelog.png
 [image:source]:    https://i.postimg.cc/tJ8GqW0H/source.png
 
-[mage:rel-github-sm]:      https://i.postimg.cc/1XXy5yfD/github.png
-[image:rel-spacedock-sm]:  https://i.postimg.cc/DZ22Hrhj/spacedock.png
-[image:rel-curseforge-sm]: https://i.postimg.cc/ZRVTSWKT/UVVt0OP.png
+[mage:rel-github-sm]:      https://i.postimg.cc/1XXy5yfD/github.png "GitHub"  
+[image:rel-spacedock-sm]:  https://i.postimg.cc/DZ22Hrhj/spacedock.png "Spacedock"  
+[image:rel-curseforge-sm]: https://i.postimg.cc/ZRVTSWKT/UVVt0OP.png "CurseForge"  
   
 [shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/StackInlineLights?include_prereleases?style=plastic
 [shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/json/mod.json

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "label": "License",
-  "labelColor": "black",
-  "message": "GPLv2",
-  "color": "red",
+  "labelColor": "blueviolet",
+  "message": "CC BY-NC-SA 3.0",
+  "color": "grey",
   "style": "plastic"
 }
