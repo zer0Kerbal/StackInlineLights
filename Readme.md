@@ -39,7 +39,7 @@ updated: 2020 03 16 -->
 ### Dependencies
 - [x] [Kerbal Space Program][KSP:website] [![][shield:ksp]][KSP:website] ***may*** work on other versions ]/YMMV/
 ### Recomends  
-- [x] [Module Manager][thread:mm] [^2]  
+- [x] [Module Manager][thread:mm] [^1]  
 - [x] [Kerbal Changelog][thread:kcl]  
 - [x] [SIL Patches][thread:SILP] adds Stack Inline Lights to docking ports and other things  
 ### Suggests
@@ -65,8 +65,8 @@ updated: 2020 03 16 -->
 - [x] [Community Resource Pack][thread:crp]  
 - [x] [Bulb **Evolved**][thread:bulb]  
 ### Supports
-- [x] [Bulb **Evolved**][thread:bulb]  
-- [x] [TweakScale][thread:tweakscale]  
+- [x] [Bulb *Evolved*][thread:bulb]  
+- [x] [TweakScale][thread:twk]  
 - [x] [Kerbal Changelog][thread:kcl]  
 ### Conflicts
 - [x] none known
@@ -109,10 +109,11 @@ License: ![License CC BY-NC-SA 3.0][MOD:original:license:shield] ![][LOGO:licens
 [MOD:original:source]:     https://forum.kerbalspaceprogram.com/index.php?/topic/47765-*
 [MOD:original:thread]:     https://forum.kerbalspaceprogram.com/index.php?/topic/47765-*
 [MOD:original:download]:   https://www.dropbox.com/s/0o94tdgxj8g4g2d/StackInlineLightsRGB-v0.7%20%28regular%29.zip?dl=0
-[MOD:original:license:shield]: https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey "CC BY-NC-SA 3.0"  
+[MOD:original:license:shield]:  https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 3.0"  
 
 <!--- license logo urls -->
-[LOGO:license]: https://licensebuttons.net/l/by-nc-sa/3.0/80x15.png "CC BY-NC-SA 3.0"  
+[LINK:license]: https://creativecommons.org/licenses/by-nc-sa/3.0/ "CC BY-NC-SA 3.0"  
+[LOGO:license]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 3.0"  
 
 <!--- original mod stuff -->
 
@@ -201,7 +202,7 @@ License: ![License CC BY-NC-SA 3.0][MOD:original:license:shield] ![][LOGO:licens
 [thread:kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal Changelog"  
 [thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"  
 [thread:crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"  
-[thread:bulb]: https://forum.kerbalspaceprogram.com/index.php?/topic/191270-* "Bulb **Evolved**"
+[thread:bulb]: https://forum.kerbalspaceprogram.com/index.php?/topic/191270-* "Bulb *Evolved*"
 
 [thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-* "Link to how to get support"  
 
