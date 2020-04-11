@@ -1,6 +1,8 @@
 {
   "schemaVersion": 1,
   "label": "Stack Inline Lights",
+  "labelColor": "darkgreen",
   "message": "0.8.0.0",
-  "color": "orange"
+  "color": "orange",
+  "style": "plastic"  
 }
