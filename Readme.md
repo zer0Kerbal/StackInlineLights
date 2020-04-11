@@ -100,7 +100,7 @@ License: ![License CC BY-NC-SA 3.0][MOD:original:license:shield] ![][LOGO:origin
 [MOD:wiki]:         https://github.com/zer0Kerbal/StackInlineLights/
 [MOD:issues]:       https://github.com/zer0Kerbal/StackInlineLights/issues
 [MOD:known]:        https://github.com/zer0Kerbal/StackInlineLights/wiki/Known-Issues
-[MOD:forum]:        https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*
+[MOD:forum]:        https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*
 [MOD:github:repo]:  https://github.com/zer0Kerbal/StackInlineLights/
 [MOD:changelog]:    https://github.com/zer0Kerbal/StackInlineLights/Changelog.cfg
 [KSP:website]:      https://kerbalspaceprogram.com/ "Kerbal Space Program"  
@@ -118,7 +118,7 @@ License: ![License CC BY-NC-SA 3.0][MOD:original:license:shield] ![][LOGO:origin
 
 [MOD:rel-ckan]:      https://forum.kerbalspaceprogram.com/index.php?/topic/90246-* "CKAN"  
 [MOD:rel-github]:    https://github.com/zer0Kerbal/StackInlineLights/releases/latest "GitHub"  
-[MOD:rel-spacedock]: https://spacedock.info/mod/1746 "SpaceDock"  
+[MOD:rel-spacedock]: https://spacedock.info/mod/2369 "SpaceDock"  
 [MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/sil "CurseForge"  
 
 [image:rel-github]:     https://i.imgur.com/RE4Ppr9.png
