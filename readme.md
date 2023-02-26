@@ -30,20 +30,18 @@ brought to you by *KerbSimpleCo*
 
 ### Preamble by [alexustas][alexustas]
 
-* Thanks to XanderTek, and Kreuzung for their help!
-* included 2 samples of welding with Stock battery banks, FOR "StackInlineLightsRGB-v0.6" ONLY
-* Lights, welded with stock Docking Ports, by XanderTek
-* Please, leave your comments and suggestions. It is very important to me.
-* You can tweak values by editing the part.cfg or using a ModuleManager patch.  
-* This module can be added to other crewed parts directly or using a ModuleManager patch.  
+>* Thanks to XanderTek, and Kreuzung for their help!
+>* included 2 samples of welding with Stock battery banks
+>* Lights, welded with stock Docking Ports, by XanderTek
+>* Please, leave your comments and suggestions. It is very important to me.
+>* You can tweak values by editing the part.cfg or using a ModuleManager patch.  
+>* This module can be added to other crewed parts directly or using a ModuleManager patch.  
 
-#### Stack Inline Light' with full color and brightness setup and in any sizes!
+### <img src="https://duckduckgo.com/i/fe0eb4d1.png" alt="Imgur logo" height="33px" >
 
-![View full album][IMGUR:one]  
-
-#### Lights, welded with stock Docking Ports, by XanderTek
-
-[View full album][IMGUR:two]  
+* Albums
+  * [Stack Inline Lights with full color and brightness setup and in any sizes!](https://i.imgur.com/AkVuW8J.png)
+  * [Lights, welded with stock Docking Ports, by XanderTek](https://i.imgur.com/wiWF3gQ.png)
 
 ### See more
 
@@ -277,16 +275,14 @@ Comment, click, like, share, up-vote, subscribe
 [twitch]: https://www.twitch.tv/zer0kerbal
 [twitter]: https://twitter.com/zer0Kerbal
 [youtube]: https://www.youtube.com/@zer0Kerbal
-[Alexustas]:  https://forum.kerbalspaceprogram.com/index.php?/profile/78632-Alexustas/ "Alexustas"  
-[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zed'K"  
+[Alexustas]:  https://forum.kerbalspaceprogram.com/index.php?/profile/78632-Alexustas/ "Alexustas"
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zed'K"
 
 #### Connect with me
 
 Track progress: issues [here][issue] and projects [here](https://github.com/zer0Kerbal/MOD-NAME/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
-[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter]</br> 
-
-<!-- [<img align="left" alt="zer0Kerbal | Steam" width="32px" src="https://cdn.icon-icons.com/icons2/161/PNG/32/steam_22675.png" />][steam]</br> -->
+[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter]</br>  
 
 ##### Release Schedule
 
@@ -298,9 +294,3 @@ Track progress: issues [here][issue] and projects [here](https://github.com/zer0
 [^1]: this isn't a mod. ;P  
 [^2]: ***may*** work on other versions (YMMV)  
 [^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
-
-[IMG:hero:0]: https://i.imgur.com/AkVuW8J.png "Stack Inline Lights (SIL)"  
-[IMG:hero:1]: https://i.imgur.com/wiWF3gQ.png "Stack Inline Lights (SIL)"  
-
-[IMGUR:one]: https://imgur.com/a/znbMm "Imgur Album 1: Stack Inline Light' with full color and brightness setup and in any sizes!"  
-[IMGUR:two]: https://imgur.com/a/Qqaik "Imgur Album 2: Lights, welded with stock Docking Ports, by XanderTek"
