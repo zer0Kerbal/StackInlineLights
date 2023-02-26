@@ -1,8 +1,8 @@
 {
-  "schemaVersion": "1",
-  "label": "Stack Inline Lights",
-  "labelColor": "darkgreen",
-  "message": "0.8.0.0",
-  "color": "orange",
-  "style": "plastic"
+ "schemaVersion": 1,
+ "label": "Stack Inline Lights",
+ "labelColor": "BADA55",
+ "message": "0.8.0.0",
+ "color": "darkgreen",
+ "style": "plastic"
 }
