@@ -251,11 +251,11 @@ Comment, click, like, share, up-vote, subscribe
 [SYL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/ "SpaceY Lifters (SYL)"
 [FTP]: https://forum.kerbalspaceprogram.com/index.php?/topic/207702-*/ "Fuel Tanks Plus (FTP)"
 
-[cck]:  "Community Category Kit (cck)"
+[bulb]: https://forum.kerbalspaceprogram.com/index.php?/topic/191270-* "Bulb *Evolved*"
+[cck]: https://forum.kerbalspaceprogram.com/index.php?/topic/149840-* "Community Category Kit (cck)"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
-[bulb]: https://forum.kerbalspaceprogram.com/index.php?/topic/191270-* "Bulb *Evolved*"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
