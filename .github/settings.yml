@@ -259,38 +259,6 @@ labels:
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
-  - title: 0.5.0.0-release
-    description: progress toward archival 0.5.0.0-release
-    state: open
-
-  - title: 0.9.97.0-alpha
-    description: progress toward 0.9.97.0-alpha
-    state: open
-
-  - title: 0.9.98.0-beta
-    description: progress toward 0.9.98.0-beta
-    state: open
-
-  - title: 0.9.99.0-adoption
-    description: progress toward 0.9.99.0-adoption
-    state: open
-
-  - title: 0.9.99.1-prerelease
-    description: progress toward 0.9.99.1-prerelease
-    state: open
-
-  - title: 1.0.0.0-release
-    description: progress toward 1.0.0.0-release
-    state: open
-
   - title: Localization - Master
     description: progress toward total localization
-    state: open
-
-  - title: Localization - Code
-    description: progress toward CODE localization (only for add-ons - plugins - etc)
-    state: open
-
-  - title: Localization - Parts
-    description: progress toward Parts localization (only for parts, patches, agencies - etc)
     state: open
