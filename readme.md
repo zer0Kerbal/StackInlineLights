@@ -18,7 +18,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 by A.S.E.T.  
 
-Space. Is. Dark. I mean, really, Really, REALLY dark. Like not being able to see the inside of your eyelids while eating a PBJ sandy. Trusting your cup of Jeb's Nuclear Coffee to glow enough to patch that leak just isn't going to cut it.
+*Space. Is. Dark. I mean, really, Really, REALLY dark. Like not being able to see the inside of your eyelids while eating a PBJ sandy. Trusting your cup of Jeb's Nuclear Coffee to glow enough to patch that leak just isn't going to cut it.*
 
 A.S.E.T. Stack Inline Lights (SIL) {RGB} with full color and brightness setup and in many sizes!
 
@@ -28,7 +28,7 @@ brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/img/HeroLogo_1920x1920.png" alt="StackInlineLights Hero" width="50%" height="50%">
 
-#### Preamble by [alexustas][alexustas]:  
+### Preamble by [alexustas][alexustas]
 
 * Thanks to XanderTek, and Kreuzung for their help!
 * included 2 samples of welding with Stock battery banks, FOR "StackInlineLightsRGB-v0.6" ONLY
@@ -43,7 +43,7 @@ brought to you by *KerbSimpleCo*
 
 #### Lights, welded with stock Docking Ports, by XanderTek
 
-![View full album][IMGUR:two]  
+[View full album][IMGUR:two]  
 
 ### See more
 
