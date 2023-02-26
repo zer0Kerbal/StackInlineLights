@@ -11,7 +11,7 @@ repository:
   name: StackInlineLights
 
   # A short description of the repository that will show up on GitHub
-  description: Space. Is. Dark. I mean, really, Really, REALLY dark. Like not being able to see the inside of your eyelids while eating a PBJ sandy. Trusting your cup of Jeb's Nuclear Coffee to glow enough to patch that leak just isn't going to cut it.  A.S.E.T. Stack Inline Lights (SIL) {RGB} with full color and brightness setup and in many sizes! For Kerbal Space Program.
+  description: Space. Is. Dark. I mean, really, Really, REALLY dark. Like not being able to see the inside of your eyelids while eating a PBJ sandy. Trusting your cup of Jeb's Nuclear Coffee to glow enough to patch that leak just isn't going to cut it.  A.S.E.T. Stack Inline Lights (SIL) {RGB} full color and brightness control and in many sizes! For KSP.
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/
