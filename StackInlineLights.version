@@ -1,8 +1,8 @@
 {
-    "NAME"           : "Stack Inline Lights (SIL)",
+    "NAME"           : "Stack Inline Lights (SIL) by Alexustas",
     "URL"            : "https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/StackInlineLights.version",
     "DOWNLOAD"       : "https://github.com/zer0Kerbal/StackInlineLights/releases/latest",
-    "CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/Changelog.cfg",
+    "CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/changelog.md",
     "GITHUB" :
     {
         "USERNAME"          : "zer0Kerbal",
