@@ -38,14 +38,14 @@ updated: 2020 03 16 -->
 - *See [Known Issues][MOD:issues] for full details of feature requests, and known issues*
 ### Dependencies
 - [x] [Kerbal Space Program][KSP:website] [![][shield:ksp]][KSP:website] ***may*** work on other versions ]/YMMV/
-### Recomends  
+### Recommends  
 - [x] [Module Manager][thread:mm] [^1]  
 - [x] [Kerbal Changelog][thread:kcl]  
 - [x] [SIL Patches][thread:SILP] adds Stack Inline Lights to docking ports and other things  
 ### Suggests
 - [x] [Docking Port Descriptions(DPD)][thread:DPD]  
 - [x] [PicoPort Shielded (PPS)][thread:PPS]  
-- [x] [On Demand Fuel Cells {ODFC)}][thread:ODFC]  
+- [x] [On Demand Fuel Cells (ODFC)}][thread:ODFC]  
 - [x] [Field Training Facility (FTF)][thread:FTF]  
 - [x] [Field Training Lab (FTL)][thread:FTL]  
 - [x] [Transparent Command Pods Repressurized)(TCP)][thread:TCP]  
