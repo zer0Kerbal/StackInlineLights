@@ -18,9 +18,9 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 by A.S.E.T.  
 
-A.S.E.T. Stack Inline Lights (SIL) {RGB} with full color and brightness setup and in any sizes! for Kerbal Space Program.
+Space. Is. Dark. I mean, really, Really, REALLY dark. Like not being able to see the inside of your eyelids while eating a PBJ sandy. Trusting your cup of Jeb's Nuclear Coffee to glow enough to patch that leak just isn't going to cut it.
 
-
+A.S.E.T. Stack Inline Lights (SIL) {RGB} with full color and brightness setup and in many sizes!
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by originally by [alexustas][alexustas]
 
