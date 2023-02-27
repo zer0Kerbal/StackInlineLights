@@ -18,27 +18,30 @@ updated: 01 Oct 2022 -->
 
 ## Parts Catalog
 
-This add-on adds nine (9) resource parts
+This add-on adds ten (10) BRIGHT parts
 
 ---
 <!-- no toc -->
-* Mallet *(Only with Kerbal Inventory System installed)*
-* SurveyStake
+* BRIGHT docking
+  * 0.625 (Jr), 1.25m, 2.5m (Sr)
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/GameData/MOD-NAME/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/GameData/MOD-NAME/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/docs/thumbs/sil-dock-bright-0625_icon.png" alt="dock-bright-0625" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/docs/thumbs/sil-dock-bright-125_icon.png" alt="dock-bright-125" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/docs/thumbs/sil-dock-bright-250_icon0.png" alt="dock-bright-25" width="25%" height="25%" />
 
-"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-light-ring-1875_icon.png"
-"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-dock-bright-125_icon.png"
-"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-dock-bright-250_icon0.png"
-"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-dock-bright-0625_icon.png"
-"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-light-bat-250_icon.png"
-"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-light-bat-250-1_icon.png"
-"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-light-ring-125_icon.png"
-"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-light-ring-250_icon.png"
-"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-light-ring-375_icon.png"
-"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-light-ring-0625_icon.png"
+[top](#parts-catalog)
 
----
+* BRIGHT battery
+  * 1.25m and 2.5m
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/docs/thumbs/sil-light-bat-250-1_icon.png" alt="light-bat 1.25m" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/docs/thumbs/sil-light-bat-250_icon.png" alt="light-bat-250" width="25%" height="25%" />
+
+[top](#parts-catalog)
+
+* BRIGHT stack ring
+  * 0.625m, 1.25m
+  * 1.875m, 2.50m and 3.75m
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/docs/thumbs/sil-light-ring-0625_icon.png" alt="light-ring-0625" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/docs/thumbs/sil-light-ring-125_icon.png" alt="light-ring-125" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/docs/thumbs/sil-light-ring-1875_icon.png" alt="light-ring-1875" width="25%" height="25%" />  <img src="https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/docs/thumbs/sil-light-ring-250_icon.png" alt="light-ring-250" width="25%" height="25%" />  <img src="https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/docs/thumbs/sil-light-ring-375_icon.png" alt="light-ring-375" width="25%" height="25%" />
 
 [top](#parts-catalog)
 
