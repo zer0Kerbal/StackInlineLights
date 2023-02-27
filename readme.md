@@ -52,11 +52,9 @@ brought to you by *KerbSimpleCo*
 >* [Marketing Slicks][markt]
 >* [Parts Catalog][parts] for part pictures
 
-### YouTube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+### YouTube video by [`alexustas22`](https://www.youtube.com/@alexustas22)
 
-[![Kottabos reviews StackInlineLights](https://img.youtube.com/vi/Oj1etoybd7E/0.jpg)](https://youtu.be/Oj1etoybd7E)
-
-https://youtu.be/M4oEPicCZFU "Stock Inline Lights (SIL)"  
+[![KSP SIL v2 Color test 01](https://img.youtube.com/vi/M4oEPicCZFU/0.jpg)](https://youtu.be/M4oEPicCZFU)
 
 ### Help Wanted
 
