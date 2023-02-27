@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/2396)                                 |
 | ckan       | StackInlineLights                                                 |
 
-## Version 0.8.0.0 - Brushing off the Construction Dust
+## Version 0.8.0.0-adoption `<Brushing off the Construction Dust>`
 
 * >>-- adopted by [zer0Kerbal](https:github.com/zer0Kerbal) --<<
 
