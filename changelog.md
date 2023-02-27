@@ -20,6 +20,7 @@
 ### Sumamary 0.9.0.0
 
 * Update, Lint and modernize all parts
+* NEW: lights can blink!
 * Create Agency (will be moving out into it's own addon)
 * English Localization (complete)
 * Updated
