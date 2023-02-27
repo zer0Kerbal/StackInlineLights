@@ -27,8 +27,16 @@ This add-on adds nine (9) resource parts
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/GameData/MOD-NAME/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/GameData/MOD-NAME/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
 
-* MicroPad
-* OrbitalDock
+"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-light-ring-1875_icon.png"
+"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-dock-bright-125_icon.png"
+"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-dock-bright-250_icon0.png"
+"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-dock-bright-0625_icon.png"
+"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-light-bat-250_icon.png"
+"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-light-bat-250-1_icon.png"
+"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-light-ring-125_icon.png"
+"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-light-ring-250_icon.png"
+"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-light-ring-375_icon.png"
+"Q:\KSPDev\ASET\Repo\StackInlineLights\docs\thumbs\sil-light-ring-0625_icon.png"
 
 ---
 
