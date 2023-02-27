@@ -62,8 +62,7 @@ brought to you by *KerbSimpleCo*
 > * Contracts for these glorious parts
 > * Sample Crafts
 > * Variant Textures
-> * Converting from FireSpitter to Stock and/or KSPWheel  
-> * Model updates (add/improve lights, iva, hatches and so forth)
+> * Model updates (add/improve lights)
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
@@ -112,7 +111,7 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 * [SimpleNotes! (NOTE)][NOTES]
 * [Solar Science (SOL)][SOL]
 * [Transparent Pods (PODS)][PODS]
-* [NecroBones][necrobones] suite of mods that play nicely together
+* [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/) suite of mods that play nicely together
   * [Lithobrake Exploration Technologies (LET)][LET] lander parts, large chutes/legs/ladders/etc
   * [SpaceY Lifters (SYL)][SYL] stock-balanced large rocket parts, 5m parts, large SRBs
   * [SpaceY Expanded (SYE)][SYE]
