@@ -10,6 +10,15 @@
 | spacedock  | (https://spacedock.info/mod/2396)                                 |
 | ckan       | StackInlineLights                                                 |
 
+## Version 0.9.99.9-release - `<Thank you Alexustas>` edition
+
+* Released
+  * 26 Feb 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+---
+
 ## Version 0.8.0.0-adoption `<Brushing off the Construction Dust>`
 
 * >>-- adopted by [zer0Kerbal](https:github.com/zer0Kerbal) --<<
