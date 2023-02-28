@@ -28,6 +28,7 @@
   * part tags to use stock strings
 * Can now search for `SIL` and `ASET` in the editor to find all these parts
 * GhostParts.cfg 2.0 now included
+* `disableColorPicker` = False went missing from ModuleLight, found and put back
 
 ### Create 0.9.0.0
 
