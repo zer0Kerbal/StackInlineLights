@@ -58,7 +58,6 @@
   * closes #6 - 0.9.0.0 Create Social Media Presence
   * closes #3 - duplicate
 
-
 ---
 
 ## Version 0.8.0.0-adoption `<Brushing off the Construction Dust>`
