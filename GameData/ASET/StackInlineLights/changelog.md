@@ -10,7 +10,57 @@
 | spacedock  | (https://spacedock.info/mod/2396)                                 |
 | ckan       | StackInlineLights                                                 |
 
-## Version 0.8.0.0 - Brushing off the Construction Dust
+## Version 0.9.0.0-release - `<Thank you Alexustas>` edition
+
+* Released
+  * 26 Feb 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Sumamary 0.9.0.0
+
+* Update, Lint and modernize all parts
+* NEW: lights can blink!
+* Create Agency (will be moving out into it's own addon)
+* English Localization (complete)
+* Updated
+  * textures to bc3 DXT5
+  * part tags to use stock strings
+* Can now search for `SIL` and `ASET` in the editor to find all these parts
+* GhostParts.cfg 2.0 now included
+* `disableColorPicker` = False went missing from ModuleLight, found and put back
+
+### Create 0.9.0.0
+
+* closes #7 - Create GitHub Pages
+* closes #8 - Create HeroLogo.png
+* closes #11 - Create <StackInlineLights.cfg>
+* closes #32 - Create Agency
+
+### Localization 0.9.0.0
+
+* closes #9 - Create Localization directory and contents
+* closes #13 - English <en-us.cfg>
+* closes #30 - Part Localization
+* updates #12 - Localization - Master
+
+### Update  0.9.0.0
+
+* closes #10 - Part Asset Updates
+* closes #31 - Part Tags
+
+### Status 0.9.0.0
+
+* Issues
+  * closes #2 - Stack Inline LIghts (SIL) v0.9.0.0-release `<Thank you Alexustas>` edition
+  * closes #4 - 0.9.0.0 Create Legal Mumbo Jumbo
+  * closes #5 - 0.9.0.0 Create Documentation
+  * closes #6 - 0.9.0.0 Create Social Media Presence
+  * closes #3 - duplicate
+
+---
+
+## Version 0.8.0.0-adoption `<Brushing off the Construction Dust>`
 
 * >>-- adopted by [zer0Kerbal](https:github.com/zer0Kerbal) --<<
 
